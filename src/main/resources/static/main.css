@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+
+#main-content {
+    max-width: 940px;
+    padding: 2em 3em;
+    margin: 0 auto 20px;
+    background-color: burlywood;
+    border: 1px solid bisque;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
